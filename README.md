@@ -5,6 +5,8 @@ Implementation of the "Memory" game
 
 Week 5 Mini-Project
 
+Uses the "simplegui" module.
+
 Numbers in a row: 
 
 http://www.codeskulptor.org/#user45_OgvAWmFSu8_0.py
@@ -17,7 +19,9 @@ Pictures in a square:
 
 http://www.codeskulptor.org/#user45_tuUlyqlt2i_13.py
 
-Uses the "simplegui" module.
+Tile implementation: 
+
+http://www.codeskulptor.org/#user45_b0VfuatsTb_0.py
 
 Branch "cleanup":
 
