@@ -5,6 +5,10 @@ Implementation of the "Memory" game
 
 Week 5 Mini-Project
 
+Numbers in a row: 
+
+http://www.codeskulptor.org/#user45_OgvAWmFSu8_0.py
+
 Pictures in a row:
 
 http://www.codeskulptor.org/#user45_tuUlyqlt2i_3.py
